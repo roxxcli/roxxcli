@@ -7,7 +7,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=roxxcli&show_icons=true&count_private=true&theme=vision-friendly-dark&hide=issues&hide_border=true&bg_color=1e272e">
-  <img height="50%" width="36%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=roxxcli&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=1e272e&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=roxxcli&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=1e272e&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=roxxcli&theme=vision-friendly-dark&hide_border=true&background=1e272e">
 </p>
 
